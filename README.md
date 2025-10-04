@@ -1,21 +1,21 @@
 # 👋 Hey there! I'm Ayush Nagdive  
 
-🎓 **Computer Engineering Student | AI Enthusiast | Filmmaker | Public Speaker**  
+🎓 **Computer Engineering Student | AI Enthusiast | Developer | Filmmaker | Public Speaker**
 
 Welcome to my GitHub profile!  
-I'm an engineering student passionate about **Artificial Intelligence**, **software development**, and **creative storytelling**.  
-I love building impactful projects, exploring new technologies, and combining creativity with code.
+I’m passionate about **Artificial Intelligence**, **software development**, and **creative storytelling**.  
+I enjoy turning ideas into reality through code — and telling stories that inspire.
 
 ---
 
 ## 🚀 About Me  
 
-- 💡 Currently exploring **AI**, **Machine Learning**, and **Full-Stack Development**  
+- 💡 Currently exploring **AI**, **Full-Stack Development**, and **DevOps**  
 - 🧠 Aspiring to become an **AI Engineer**  
-- 🎥 Director & Scriptwriter of award-winning short film **_Unseen Battles_**  
-- 🏆 Winner of multiple competitions in **documentary**, **short film**, and **skit** categories  
+- 🎬 Director & Scriptwriter of award-winning short film **_Unseen Battles_**  
+- 🏆 Winner of multiple **documentary**, **short film**, and **skit** competitions  
 - 🗣️ Skilled **public speaker** and **debater**  
-- 🌱 Always learning and improving every single day  
+- 🌱 Continuously learning, experimenting, and improving every day  
 
 ---
 
@@ -27,23 +27,35 @@ I love building impactful projects, exploring new technologies, and combining cr
 **Frameworks & Tools:**  
 `Spring Boot` • `React` • `Node.js` • `MySQL` • `Git` • `VS Code`  
 
-**Special Interests:**  
-`Artificial Intelligence` • `Data Science` • `DevOps` • `Cybersecurity` • `Cloud Computing`
+**Areas of Interest:**  
+`Artificial Intelligence` • `Data Science` • `Full Stack Development` • `Cloud & DevOps`
 
 ---
 
-## 🧩 Projects  
+## 🧩 Featured Projects  
 
-### 🔹 [Sorting Visualizer](https://github.com/your-username/Sorting_Visualizer)  
-A visual representation of sorting algorithms like Bubble, Quick, Merge, and more — with real-time animation, speed control, and complexity display.  
+### 🔹 [Sorting Visualizer](https://github.com/Avio-dels/Sorting_Visualizer)  
+An interactive visualizer for algorithms like **Bubble**, **Merge**, **Quick**, and **Selection Sort**.  
+Includes:
+- Real-time animation  
+- Speed control slider  
+- Time and space complexity display  
+- Clean UI with locked controls during sorting  
 
-### 🔹 [Weather Application](https://github.com/your-username/Weather_App)  
-Full-stack weather app using **Spring Boot**, **JWT Auth**, and **OpenWeatherMap API**.  
+---
 
-### 🔹 [Student Grade Calculator](https://github.com/your-username/Student_Grade_Calculator)  
-Simple yet elegant project that calculates student grades dynamically.  
+### 🔹 [Verbose (Smart Attendance System)](https://github.com/Avio-dels/Verbose)  
+A **face recognition-based attendance system** built using Python and OpenCV.  
+Planned as a scalable project with:
+- Automated student recognition  
+- Wi-Fi & Bluetooth proximity detection  
+- Database integration for real-time records  
 
-*(More projects available on my repositories!)*  
+---
+
+### 🔹 [My Portfolio](https://avio-dels.github.io/My_Portfolio/)  
+A modern and responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
+It showcases my skills, projects, and achievements in a clean and professional layout.
 
 ---
 
@@ -62,9 +74,9 @@ Simple yet elegant project that calculates student grades dynamically.
 📧 **Email:** [aviothic.xo@gmail.com](mailto:aviothic.xo@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/ayush-nagdive](https://linkedin.com/in/ayush-nagdive)  
 📸 **Instagram:** [instagram.com/ayush_nagdive](https://instagram.com/ayush_nagdive)  
-🧠 **Portfolio:** [your-portfolio-link](https://your-portfolio-link.com)
+🧠 **Portfolio:** [your-portfolio-link](https://avio-dels.github.io/My_Portfolio/)
 
 ---
 
 ⭐ _“Code your dreams, direct your destiny.”_  
-Thanks for stopping by! Don’t forget to check out my repositories 👇
+Thanks for visiting! Check out my repositories below 👇
