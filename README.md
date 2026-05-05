@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aviothic.xo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](#)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Avio-dels&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Avio-dels&color=0e75b6&style=flat&label=Profile+Views)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a **7th semester Computer Science student** at Prof. Ram Meghe College of Engineering and Management (SGBAU), Amravati — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
+I'm a **6th semester Computer Science student** at Prof. Ram Meghe College of Engineering and Management (SGBAU), Amravati — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
 
 I build real, deployable tools — not just academic exercises. From face recognition systems to GST-compliant invoicing apps, I focus on things that solve actual problems.
 
@@ -130,11 +130,11 @@ I build real, deployable tools — not just academic exercises. From face recogn
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avio-dels&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avio-dels&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Avio-dels)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Avio-dels&theme=dark&hide_border=false)
+[![Streak Stats](https://streak-stats.demolab.com?user=Avio-dels&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avio-dels&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avio-dels&show_icons=true&theme=dark&hide_border=false&layout=compact)](https://github.com/Avio-dels)
 
 </div>
 
