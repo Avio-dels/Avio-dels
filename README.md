@@ -12,11 +12,11 @@
 
 ## 👋 About Me
 
-I'm a **7th semester Computer Science student** at Prof. Ram Meghe College of Engineering and Management (SGBAU), Amravati — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
+I'm a **Final Year Computer Science student** at Prof. Ram Meghe College of Engineering and Management (SGBAU), Amravati — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
 
 I build real, deployable tools — not just academic exercises. From face recognition systems to GST-compliant invoicing apps, I focus on things that solve actual problems.
 
-- 🎯 **Seeking**: ML/AI & Data Science Internships (2025–26)
+- 🎯 **Seeking**: ML/AI & Data Science Internships (2026–27)
 - 🔬 **Interests**: Machine Learning, Computer Vision, Big Data, DevOps
 - 🌱 **Currently Learning**: Advanced Deep Learning, MLOps, Cloud Deployment
 - 📍 **Location**: Amravati, Maharashtra, India
@@ -84,7 +84,7 @@ I build real, deployable tools — not just academic exercises. From face recogn
 
 ## 🎓 Education
 
-**B.E. in Computer Science & Engineering** — 6th Semester *(2022–2026)*
+**B.E. in Computer Science & Engineering** — 7th Semester *(2023–2027)*
 Prof. Ram Meghe College of Engineering and Management, Amravati
 Sant Gadge Baba Amravati University (SGBAU)
 
