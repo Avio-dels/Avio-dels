@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a **Final Year Computer Science student** at Prof. Ram Meghe College of Engineering and Management (SGBAU), Amravati — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
+I'm a **Final Year Computer Science student** at Prof. Ram Meghe College of Engineering and Management, Amravati (SGBAU) — actively building at the intersection of **Machine Learning**, **Data Science**, and **Full-Stack Development**.
 
 I build real, deployable tools — not just academic exercises. From face recognition systems to GST-compliant invoicing apps, I focus on things that solve actual problems.
 
